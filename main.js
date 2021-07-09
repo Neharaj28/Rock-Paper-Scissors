@@ -1,4 +1,4 @@
-let pscore=cscore=0;
+/* let pscore=cscore=0;
 function playRound(playerSelection, computerSelection) {
     // your code here!
     
@@ -27,5 +27,5 @@ function playRound(playerSelection, computerSelection) {
   for(let i=0;i<5;i++){
   const playerSelection = prompt("Enter your choice \nRock \nPaper \nScissors")
   const computerSelection = computerPlay();
-  console.log(playRound(playerSelection, computerSelection));
-  }
+  alert(playRound(playerSelection, computerSelection));
+  } */

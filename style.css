@@ -1,0 +1,17 @@
+html{
+    background: url(./background.jpg);
+    background-size: cover;
+}
+rsp{
+    display: inline;
+}
+#rock-img{
+    width: 145px;
+    height: 280px;
+    background-image: url(./rock.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border:5px hotpink solid;
+    box-shadow:15px 10px 18px hotpink ;
+}
