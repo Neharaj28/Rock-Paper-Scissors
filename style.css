@@ -2,10 +2,19 @@ html{
     background: url(./background.jpg);
     background-size: cover;
 }
-rsp{
-    display: inline;
+.rps{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    align-items: center;
+    
+    
 }
 #rock-img{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100%;
     width: 145px;
     height: 280px;
     background-image: url(./rock.png);
@@ -14,4 +23,5 @@ rsp{
     background-position: center;
     border:5px hotpink solid;
     box-shadow:15px 10px 18px hotpink ;
+    
 }
